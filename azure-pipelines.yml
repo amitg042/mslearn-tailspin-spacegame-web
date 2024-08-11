@@ -33,8 +33,8 @@
 #     platform: '$(buildPlatform)'
 #     configuration: '$(buildConfiguration)'
 
-trigger:
-- '*'
+# trigger:
+# - '*'
 
 pool:
   vmImage: 'ubuntu-latest'
